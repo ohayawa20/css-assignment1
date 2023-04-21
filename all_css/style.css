@@ -1,0 +1,10 @@
+.first-pgraph{
+    background-color: #000;
+    color: #fff;
+    }
+    .wrapper{
+        background-color: blue;
+    }
+    .wrapper > h1{
+        color: red;
+    }
